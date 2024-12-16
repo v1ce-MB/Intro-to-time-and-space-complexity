@@ -7,3 +7,6 @@ def func2(n):
         sum+=i
 
     return sum
+
+print (func1(6))
+print (func2(6))
